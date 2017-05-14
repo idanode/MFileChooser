@@ -63,9 +63,7 @@
         <source-file src="src/android/mfilechooser/FileChooserActivity.java" target-dir="src/com/orleonsoft/android/simplefilechooser/ui" />        
         <source-file src="src/android/mfilechooser/FileInfo.java" target-dir="src/com/orleonsoft/android/simplefilechooser" />
 		<source-file src="src/android/mfilechooser/Utils.java" target-dir="src/com/maginsoft/utils" />
-		
-        <source-file src="src/android/mfilechooser/libs/android-support-v4.jar" target-dir="libs/" />
-
+        
         <!-- res files -->
         <source-file src="src/android/mfilechooser/res/drawable/divider_line_grey.png" target-dir="res/drawable" />
         <source-file src="src/android/mfilechooser/res/drawable/drawer_list_selector.xml" target-dir="res/drawable" />
