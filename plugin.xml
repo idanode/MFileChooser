@@ -65,54 +65,54 @@
 		<source-file src="src/android/mfilechooser/Utils.java" target-dir="src/com/maginsoft/utils" />
         
         <!-- res files -->
-        <source-file src="src/android/mfilechooser/res/drawable/divider_line_grey.png" target-dir="res/drawable" />
-        <source-file src="src/android/mfilechooser/res/drawable/drawer_list_selector.xml" target-dir="res/drawable" />
-        <source-file src="src/android/mfilechooser/res/drawable/drawer_shadow.9.png" target-dir="res/drawable" />
+        <resource-file src="src/android/mfilechooser/res/drawable/divider_line_grey.png" target="res/drawable/divider_line_grey.png" />
+        <resource-file src="src/android/mfilechooser/res/drawable/drawer_list_selector.xml" target="res/drawable/drawer_list_selector.xml" />
+        <resource-file src="src/android/mfilechooser/res/drawable/drawer_shadow.9.png" target="res/drawable/drawer_shadow.9.png" />
 		
-        <source-file src="src/android/mfilechooser/res/drawable-hdpi/ic_launcher.png" target-dir="res/drawable-hdpi" />
-        <source-file src="src/android/mfilechooser/res/drawable-hdpi/ic_navigation_drawer.png" target-dir="res/drawable-hdpi" />
+        <resource-file src="src/android/mfilechooser/res/drawable-hdpi/ic_launcher.png" target="res/drawable-hdpi/ic_launcher.png" />
+        <resource-file src="src/android/mfilechooser/res/drawable-hdpi/ic_navigation_drawer.png" target="res/drawable-hdpi/ic_navigation_drawer.png" />
         
-		<source-file src="src/android/mfilechooser/res/drawable-mdpi/_blank.png" target-dir="res/drawable-mdpi" />
-        <source-file src="src/android/mfilechooser/res/drawable-mdpi/aac.png" target-dir="res/drawable-mdpi" />
-        <source-file src="src/android/mfilechooser/res/drawable-mdpi/apk.png" target-dir="res/drawable-mdpi" />
-        <source-file src="src/android/mfilechooser/res/drawable-mdpi/avi.png" target-dir="res/drawable-mdpi" />
-        <source-file src="src/android/mfilechooser/res/drawable-mdpi/back.png" target-dir="res/drawable-mdpi" />
-        <source-file src="src/android/mfilechooser/res/drawable-mdpi/blank.png" target-dir="res/drawable-mdpi" />
-        <source-file src="src/android/mfilechooser/res/drawable-mdpi/doc.png" target-dir="res/drawable-mdpi" />
+		<resource-file src="src/android/mfilechooser/res/drawable-mdpi/_blank.png" target="res/drawable-mdpi/_blank.png" />
+        <resource-file src="src/android/mfilechooser/res/drawable-mdpi/aac.png" target="res/drawable-mdpi/aac.png" />
+        <resource-file src="src/android/mfilechooser/res/drawable-mdpi/apk.png" target="res/drawable-mdpi/apk.png" />
+        <resource-file src="src/android/mfilechooser/res/drawable-mdpi/avi.png" target="res/drawable-mdpi/avi.png" />
+        <resource-file src="src/android/mfilechooser/res/drawable-mdpi/back.png" target="res/drawable-mdpi/back.png" />
+        <resource-file src="src/android/mfilechooser/res/drawable-mdpi/blank.png" target="res/drawable-mdpi/blank.png" />
+        <resource-file src="src/android/mfilechooser/res/drawable-mdpi/doc.png" target="res/drawable-mdpi/doc.png" />
         
-		<source-file src="src/android/mfilechooser/res/drawable-mdpi/folder.png" target-dir="res/drawable-mdpi" />
-        <source-file src="src/android/mfilechooser/res/drawable-mdpi/gif.png" target-dir="res/drawable-mdpi" />
-        <source-file src="src/android/mfilechooser/res/drawable-mdpi/ic_launcher.png" target-dir="res/drawable-mdpi" />
-        <source-file src="src/android/mfilechooser/res/drawable-mdpi/ic_navigation_drawer.png" target-dir="res/drawable-mdpi" />
-        <source-file src="src/android/mfilechooser/res/drawable-mdpi/jpg.png" target-dir="res/drawable-mdpi" />
-        <source-file src="src/android/mfilechooser/res/drawable-mdpi/mp3.png" target-dir="res/drawable-mdpi" />
-        <source-file src="src/android/mfilechooser/res/drawable-mdpi/mp4.png" target-dir="res/drawable-mdpi" />
+		<resource-file src="src/android/mfilechooser/res/drawable-mdpi/folder.png" target="res/drawable-mdpi/folder.png" />
+        <resource-file src="src/android/mfilechooser/res/drawable-mdpi/gif.png" target="res/drawable-mdpi/gif.png" />
+        <resource-file src="src/android/mfilechooser/res/drawable-mdpi/ic_launcher.png" target="res/drawable-mdpi/ic_launcher.png" />
+        <resource-file src="src/android/mfilechooser/res/drawable-mdpi/ic_navigation_drawer.png" target="res/drawable-mdpi/ic_navigation_drawer.png" />
+        <resource-file src="src/android/mfilechooser/res/drawable-mdpi/jpg.png" target="res/drawable-mdpi/jpg.png" />
+        <resource-file src="src/android/mfilechooser/res/drawable-mdpi/mp3.png" target="res/drawable-mdpi/mp3.png" />
+        <resource-file src="src/android/mfilechooser/res/drawable-mdpi/mp4.png" target="res/drawable-mdpi/mp4.png" />
 		
-		<source-file src="src/android/mfilechooser/res/drawable-mdpi/odp.png" target-dir="res/drawable-mdpi" />
-        <source-file src="src/android/mfilechooser/res/drawable-mdpi/ods.png" target-dir="res/drawable-mdpi" />
-        <source-file src="src/android/mfilechooser/res/drawable-mdpi/odt.png" target-dir="res/drawable-mdpi" />
-        <source-file src="src/android/mfilechooser/res/drawable-mdpi/pdf.png" target-dir="res/drawable-mdpi" />
-        <source-file src="src/android/mfilechooser/res/drawable-mdpi/png.png" target-dir="res/drawable-mdpi" />
-        <source-file src="src/android/mfilechooser/res/drawable-mdpi/ppt.png" target-dir="res/drawable-mdpi" />
-        <source-file src="src/android/mfilechooser/res/drawable-mdpi/rar.png" target-dir="res/drawable-mdpi" />
+		<resource-file src="src/android/mfilechooser/res/drawable-mdpi/odp.png" target="res/drawable-mdpi/odp.png" />
+        <resource-file src="src/android/mfilechooser/res/drawable-mdpi/ods.png" target="res/drawable-mdpi/ods.png" />
+        <resource-file src="src/android/mfilechooser/res/drawable-mdpi/odt.png" target="res/drawable-mdpi/odt.png" />
+        <resource-file src="src/android/mfilechooser/res/drawable-mdpi/pdf.png" target="res/drawable-mdpi/pdf.png" />
+        <resource-file src="src/android/mfilechooser/res/drawable-mdpi/png.png" target="res/drawable-mdpi/png.png" />
+        <resource-file src="src/android/mfilechooser/res/drawable-mdpi/ppt.png" target="res/drawable-mdpi/ppt.png" />
+        <resource-file src="src/android/mfilechooser/res/drawable-mdpi/rar.png" target="res/drawable-mdpi/rar.png" />
         
-		<source-file src="src/android/mfilechooser/res/drawable-mdpi/rtf.png" target-dir="res/drawable-mdpi" />
-        <source-file src="src/android/mfilechooser/res/drawable-mdpi/txt.png" target-dir="res/drawable-mdpi" />
-        <source-file src="src/android/mfilechooser/res/drawable-mdpi/xls.png" target-dir="res/drawable-mdpi" />
-        <source-file src="src/android/mfilechooser/res/drawable-mdpi/zip.png" target-dir="res/drawable-mdpi" />
+		<resource-file src="src/android/mfilechooser/res/drawable-mdpi/rtf.png" target="res/drawable-mdpi/rtf.png" />
+        <resource-file src="src/android/mfilechooser/res/drawable-mdpi/txt.png" target="res/drawable-mdpi/txt.pn" />
+        <resource-file src="src/android/mfilechooser/res/drawable-mdpi/xls.png" target="res/drawable-mdpi/xls.png" />
+        <resource-file src="src/android/mfilechooser/res/drawable-mdpi/zip.png" target="res/drawable-mdpi/zip.png" />
 		
-		<source-file src="src/android/mfilechooser/res/drawable-xhdpi/ic_launcher.png" target-dir="res/drawable-xhdpi" />
-        <source-file src="src/android/mfilechooser/res/drawable-xhdpi/ic_navigation_drawer.png" target-dir="res/drawable-xhdpi" />
+		<resource-file src="src/android/mfilechooser/res/drawable-xhdpi/ic_launcher.png" target="res/drawable-xhdpi/ic_launcher.png" />
+        <resource-file src="src/android/mfilechooser/res/drawable-xhdpi/ic_navigation_drawer.png" target="res/drawable-xhdpi/ic_navigation_drawer.png" />
 		
-        <source-file src="src/android/mfilechooser/res/drawable-xxhdpi/ic_launcher.png" target-dir="res/drawable-xxhdpi" />
-        <source-file src="src/android/mfilechooser/res/drawable-xxhdpi/ic_navigation_drawer.png" target-dir="res/drawable-xxhdpi" />
+        <resource-file src="src/android/mfilechooser/res/drawable-xxhdpi/ic_launcher.png" target="res/drawable-xxhdpi/ic_launcher.png" />
+        <resource-file src="src/android/mfilechooser/res/drawable-xxhdpi/ic_navigation_drawer.png" target="res/drawable-xxhdpi/ic_navigation_drawer.png" />
 		
-        <source-file src="src/android/mfilechooser/res/layout/drawer_list_item.xml" target-dir="res/layout" />
-        <source-file src="src/android/mfilechooser/res/layout/file_row.xml" target-dir="res/layout" />
-        <source-file src="src/android/mfilechooser/res/layout/main.xml" target-dir="res/layout" />
+        <resource-file src="src/android/mfilechooser/res/layout/drawer_list_item.xml" target="res/layout/drawer_list_item.xml" />
+        <resource-file src="src/android/mfilechooser/res/layout/file_row.xml" target="res/layout/file_row.xml" />
+        <resource-file src="src/android/mfilechooser/res/layout/main.xml" target="res/layout/main.xml" />
 
-        <source-file src="src/android/mfilechooser/res/values/styles.xml" target-dir="res/values" />	
-        <source-file src="src/android/mfilechooser/res/values-v11/styles.xml" target-dir="res/values-v11" />	
-        <source-file src="src/android/mfilechooser/res/values-v14/styles.xml" target-dir="res/values-v14" />			
+        <resource-file src="src/android/mfilechooser/res/values/styles.xml" target="res/values/styles.xml" />	
+        <resource-file src="src/android/mfilechooser/res/values-v11/styles.xml" target="res/values-v11/styles.xml" />	
+        <resource-file src="src/android/mfilechooser/res/values-v14/styles.xml" target="res/values-v14/styles.xml" />			
     </platform>
 </plugin>
