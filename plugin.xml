@@ -30,7 +30,7 @@
             <string name="internal">Internal</string>
             <string name="external">External</string>
         </config-file>
-        <config-file target="res/values/colors.xml" parent="/*">
+        <config-file target="app/src/main/res/values/colors.xml" parent="/*">
             <color name="redcolor">#FF0000</color>
             <color name="graycolor">#aaaaaa</color>
             <color name="stat_font_color">#9c917a</color>
