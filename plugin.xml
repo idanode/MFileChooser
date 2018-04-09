@@ -29,8 +29,8 @@
             <string name="category">Category</string>
             <string name="internal">Internal</string>
             <string name="external">External</string>
-        </config-file>
-        <config-file target="app/src/main/res/values/colors.xml" parent="/*">
+
+            <!-- Hack: These values should be in colors.xml -->
             <color name="redcolor">#FF0000</color>
             <color name="graycolor">#aaaaaa</color>
             <color name="stat_font_color">#9c917a</color>
